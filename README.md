@@ -5,5 +5,5 @@ I'm starting implement some projects provided by freeCodeCamp in [Rust Programmi
 
 ## Projects:
 - [x] [CLI Calculator](calculator/): A simple calculator that receive 2 numbers and one operator to realise simple math operations.
-- [ ] Image Combiner: A program that combine two images into one.
+- [x] [Image Combiner](combiner/): A program that combine two images into one.
 - [ ] Add more projects to list.
